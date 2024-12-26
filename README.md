@@ -19,9 +19,12 @@ Food waste accounts for a significant portion of global landfill contributions, 
 
 ## 🛠️ How It Works
 1. **Input Sensors**: Collect real-time data on key composting parameters.
-2. **Data Processing**: A microcontroller processes the sensor data and determines actions.
-3. **Automated Actions**: Fans, mixers, or other mechanisms adjust conditions to maintain the perfect composting environment.
-4. **Notifications**: Keeps users informed with actionable updates and progress tracking.
+   - Temperature
+   - Humidity (water levels)
+   - Timing
+3. **Data Processing**: A microcontroller (elegoo arduino) processes the sensor data and determines actions.
+4. **Automated Actions**: Sprinklers, heat lamps, or other mechanisms adjust conditions to maintain the perfect composting environment.
+5. **Notifications**: Keeps users informed with actionable updates and progress tracking.
 
 ## 📂 Repository Structure
 - `hardware/`: Circuit designs, parts list, and assembly instructions.
@@ -41,6 +44,6 @@ Be part of this exciting journey towards a greener planet! Star this repository,
 ---
 Let’s transform waste into worth. 🌎✨
 
-**Contact us**: [Your Email/Website/GitHub Link]  
-**Follow us**: [Social Media Links]
+**Contact us**: [rae3official@gmail.com]  
+**Follow us**: [Instagram: https://www.instagram.com/rae3_official/] (Find project logs, etc. here!)
 

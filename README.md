@@ -1,5 +1,3 @@
-# Automated-Compost-Bin-RAE
-
 # Automated Compost Bin
 
 Welcome to the **Automated Compost Bin** project—a revolutionary step in turning waste into a sustainable future! This project combines smart technology and eco-friendly principles to create a composting solution that’s as effective as it is innovative.

@@ -32,12 +32,6 @@ Food waste accounts for a significant portion of global landfill contributions, 
 - `docs/`: Manuals, FAQs, and additional resources.
 - `test/`: Testing scripts and results.
 
-## 🧩 How to Get Involved
-We’re building this project with collaboration in mind! Here's how you can contribute:
-- **Developers**: Help refine the software or add features.
-- **Designers**: Enhance the interface or physical aesthetics.
-- **Eco-Enthusiasts**: Test the system and share feedback.
-
 ## 🌐 Join Us
 Be part of this exciting journey towards a greener planet! Star this repository, contribute, or share with your network to amplify the impact. Together, we can make sustainability smarter and more accessible.
 

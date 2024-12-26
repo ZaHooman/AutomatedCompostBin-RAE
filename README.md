@@ -6,8 +6,7 @@ Welcome to the **Automated Compost Bin** project—a revolutionary step in turni
 The Automated Compost Bin is an intelligent system designed to make composting simple, efficient, and accessible for everyone. Whether you're an eco-warrior or new to sustainability, this project helps reduce waste and enrich soil with minimal effort. Using sensors, automation, and thoughtful engineering, the bin monitors compost conditions and optimizes the decomposition process.
 
 ### Key Features:
-- **Smart Monitoring**: Tracks temperature, humidity, and pH levels for optimal composting.
-- **Automated Aeration**: Ensures proper airflow without manual intervention.
+- **Smart Monitoring**: Tracks temperature, humidity, and timing for optimal composting.
 - **Eco-Friendly Design**: Built using sustainable materials and low-energy components.
 - **User Notifications**: Alerts you when the compost is ready or needs attention via a connected app or display.
 

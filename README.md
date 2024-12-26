@@ -38,6 +38,6 @@ Be part of this exciting journey towards a greener planet! Star this repository,
 ---
 Let’s transform waste into worth. 🌎✨
 
-**Contact us**: [rae3official@gmail.com]  
-**Follow us**: [Instagram: https://www.instagram.com/rae3_official/] (Find project logs, etc. here!)
+**Contact us**: rae3official@gmail.com
+**Follow us**: https://www.instagram.com/rae3_official/ (Find project logs, etc. here!)
 

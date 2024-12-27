@@ -1,6 +1,6 @@
 # Automated Compost Bin
 
-Welcome to the **Automated Compost Bin** project—a revolutionary step in turning waste into a sustainable future! This project combines smart technology and eco-friendly principles to create a composting solution that’s as effective as it is innovative.
+Introducing the **Automated Compost Bin** project—a revolutionary step in turning waste into a sustainable future! This project combines smart technology and eco-friendly principles to create a composting solution that’s as effective as it is innovative.
 
 ## 🚀 Project Overview
 The Automated Compost Bin is an intelligent system designed to make composting simple, efficient, and accessible for everyone. Whether you're an eco-warrior or new to sustainability, this project helps reduce waste and enrich soil with minimal effort. Using sensors, automation, and thoughtful engineering, the bin monitors compost conditions and optimizes the decomposition process.

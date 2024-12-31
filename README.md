@@ -31,10 +31,10 @@ Food waste accounts for a significant portion of global landfill contributions, 
 - `docs/`: Manuals, FAQs, and additional resources.
 - `test/`: Testing scripts and results.
 
-## 🌐 Join Us
+## 🌐 Join The Mission
 Be part of this exciting journey towards a greener planet! Star this repository, contribute, or share with your network to amplify the impact. Together, we can make sustainability smarter and more accessible.
 
----
+-
 Let’s transform waste into worth. 🌎✨
 
 **Contact us**: rae3official@gmail.com

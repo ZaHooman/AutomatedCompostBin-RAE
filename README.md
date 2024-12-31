@@ -35,7 +35,7 @@ Food waste accounts for a significant portion of global landfill contributions, 
 Be part of this exciting journey towards a greener planet! Star this repository, contribute, or share with your network to amplify the impact. Together, we can make sustainability smarter and more accessible.
 
 ---
-Let’s transform waste into worth. 🌎✨
+Innovate and engineer today, for a greener and more efficient tomorrow ₊˚⊹♡🌿☀︎ ⋆⁺₊⋆🌎
 
 **Contact us**: rae3official@gmail.com
 **Follow us**: https://www.instagram.com/rae3_official/ (Find project logs, etc. here!)

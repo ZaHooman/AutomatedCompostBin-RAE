@@ -38,5 +38,5 @@ Be part of this exciting journey towards a greener planet! Star this repository,
 Innovate and engineer today, for a greener and more efficient tomorrow ₊˚⊹♡🌿☀︎ ⋆⁺₊⋆🌎
 
 **Contact us**: rae3official@gmail.com
-**Follow us**: https://www.instagram.com/rae3_official/ (Find project logs, etc. here!)
+**Follow us**: https://www.instagram.com/rae3_official/ (Find project logs, fundraisers, etc. here!)
 
